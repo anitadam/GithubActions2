@@ -8,7 +8,7 @@ public class MyClass {
     }
 
     public int sub(int a, int b) {
-        return a - b;
+        return a - b+1;
 
 
     }
