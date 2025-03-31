@@ -12,7 +12,7 @@ public class User {
 
     public void setUserName(String userName) {
 
-        this.userName = userName;
+        this.userName = userName+1;
 
     }
     public String getUserName() {
