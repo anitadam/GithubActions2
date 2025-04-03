@@ -18,7 +18,7 @@ public class UserTest {
         String expected = "Anita";
         String actual = newUser.getUserName();
         assertEquals(expected,actual);
-        // adding comment
+
 
 
 
